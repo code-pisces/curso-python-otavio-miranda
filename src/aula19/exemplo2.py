@@ -1,6 +1,3 @@
-from ast import operator
-
-
 while True:
     print()
     num_1 = input('Digite um número: ')
